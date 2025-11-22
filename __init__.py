@@ -1,1 +1,1 @@
-"""The torque component."""
+"""The my torque component."""
